@@ -8,8 +8,7 @@ websocket优势：服务器与客户端之间的标头信息很少，服务器�
 
 
 主要的架构如下：
-
-
+![](http://qiniu.lijiaxi.com.cn/websocket.png)
 
 
 
